@@ -1,0 +1,1 @@
+(banking['age'] >= 18).value_counts()
